@@ -1,0 +1,5 @@
+/* div 태그의 글자의 색과 크기 */
+div {
+  color: red;
+  font-size: 100px;
+}
